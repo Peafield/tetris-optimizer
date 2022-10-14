@@ -1,0 +1,2 @@
+To determine if the board is valid I just need to comapre the number of rows and coloumns.
+To to make sure each piece is a valid tetrinome
